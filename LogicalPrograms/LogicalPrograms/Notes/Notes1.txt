@@ -1,0 +1,28 @@
+﻿Interview notes
+
+Reflaxtions
+
+Multithred
+
+Design patterns
+
+How to mock Dataaccess layer
+
+Diff between WCF and RestFull architecture?
+
+
+Use private Contr to stop creating instance
+
+Diff between User control and custom control
+
+GC, Exception, custom exception, 
+
+Write program to have non repeate numbers
+
+OOPS
+
+c# sync/Async
+
+Dispose, finalize,
+
+Breakpoint
